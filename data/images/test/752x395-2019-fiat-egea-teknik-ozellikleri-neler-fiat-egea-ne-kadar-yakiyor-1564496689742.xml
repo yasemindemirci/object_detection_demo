@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>752x395-2019-fiat-egea-teknik-ozellikleri-neler-fiat-egea-ne-kadar-yakiyor-1564496689742.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\test\752x395-2019-fiat-egea-teknik-ozellikleri-neler-fiat-egea-ne-kadar-yakiyor-1564496689742.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>752</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>30</ymin>
+			<xmax>623</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

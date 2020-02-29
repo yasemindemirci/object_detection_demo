@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>fiat-panda-kar-beyazi.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\test\fiat-panda-kar-beyazi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>25</ymin>
+			<xmax>546</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

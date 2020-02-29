@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hero.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\train\hero.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1366</width>
+		<height>697</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>188</ymin>
+			<xmax>1091</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

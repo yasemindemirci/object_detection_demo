@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>f696023be6e93fc0e33cf13d8a48d138.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\train\f696023be6e93fc0e33cf13d8a48d138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>310</ymin>
+			<xmax>576</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

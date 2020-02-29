@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>FP_18MY_001_GEE_ITEM_GRID-640x318_tcm76-349884_desktop_640x318.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\train\FP_18MY_001_GEE_ITEM_GRID-640x318_tcm76-349884_desktop_640x318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>49</ymin>
+			<xmax>543</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

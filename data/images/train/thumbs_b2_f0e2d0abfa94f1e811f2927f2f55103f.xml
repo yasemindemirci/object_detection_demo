@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>thumbs_b2_f0e2d0abfa94f1e811f2927f2f55103f.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\train\thumbs_b2_f0e2d0abfa94f1e811f2927f2f55103f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>954</width>
+		<height>636</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>121</ymin>
+			<xmax>804</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

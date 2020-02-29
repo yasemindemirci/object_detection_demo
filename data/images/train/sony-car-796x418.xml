@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sony-car-796x418.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\train\sony-car-796x418.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>796</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>64</ymin>
+			<xmax>737</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

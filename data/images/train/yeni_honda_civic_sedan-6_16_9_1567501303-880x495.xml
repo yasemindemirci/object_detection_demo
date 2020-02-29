@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yeni_honda_civic_sedan-6_16_9_1567501303-880x495.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\train\yeni_honda_civic_sedan-6_16_9_1567501303-880x495.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>880</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>142</ymin>
+			<xmax>765</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

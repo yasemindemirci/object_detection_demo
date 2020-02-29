@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>honda-civic-type-r_0-480xdetail.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\train\honda-civic-type-r_0-480xdetail.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>49</ymin>
+			<xmax>461</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>628x422-surus-izlenimi-honda-civic-16-i-dtec-9at-1536416361570.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\data\images\train\628x422-surus-izlenimi-honda-civic-16-i-dtec-9at-1536416361570.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>144</ymin>
+			<xmax>628</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>
